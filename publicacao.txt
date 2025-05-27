@@ -3,4 +3,6 @@ git add .
 git commit -m "Primeiro commit"
 git remote add origin https://github.com/GustavoMaltaGuimaraesBrasil/TechChallenge1_regressao.git
 git branch -M main
-git push -u origin main
+git push -u origin main --force
+git push
+git pull
