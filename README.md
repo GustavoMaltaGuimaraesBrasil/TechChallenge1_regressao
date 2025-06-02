@@ -32,7 +32,7 @@ O objetivo é construir um modelo de **regressão supervisionada** capaz de prev
 Após análise exploratória, tratamento dos dados e experimentação de modelos, o algoritmo que apresentou melhor desempenho foi o **Gradient Boosting Regressor**, alcançando os seguintes resultados:
 
 - 📈 **R² (Coeficiente de Determinação):** `0.8707`
-- 🧮 **MSE (Mean Squared Error):** `18.956.450`
+- 🧮 **MAE (Erro Absoluto Médio):** `2,505.68`
 
 > 🎯 O modelo consegue explicar aproximadamente **87% da variabilidade** nos custos médicos, indicando uma boa capacidade preditiva.
 
